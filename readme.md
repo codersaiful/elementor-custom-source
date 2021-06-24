@@ -14,3 +14,6 @@ This plugin is an example of overriding Elementor template library as detail [he
 
 ## Notes
 * This plugin is just an example of how we override Elementor library. You should put the source class in your plugin (recommended) or your theme.
+
+## Source
+[Source Link](https://github.com/dinhtungdu/custom-elementor-source)
